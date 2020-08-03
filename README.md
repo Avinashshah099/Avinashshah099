@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with Deep Learning with TensorFlow.
 - 💬 Ask me about Deep Learning
 - 📫 How to reach me: Linkedin, Kaggle
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Mole in my both Eyes.
 
 <!--
